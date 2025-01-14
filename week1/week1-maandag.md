@@ -8,32 +8,28 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- 
-
+> - wireframe: eerste versies van wireframe aanmaken
+> - moodboard: op zoek gegaan naar de look & feel, consistente branding doorheen onze hele design proces en opgezocht hoe ik anderen kon helpen hiermee
+> - persona: inleven in doelpubliek, p^roberen de behoeften goed te begrijpen van hoe en waarom we het doelpubliek kunnen helpen
+> - sitemap: structuur aangeven van de website, de user experience die ze
+> - brainstorm: op zoek geweest naar ideëen en hoe functionaliteiten te verbeteren of nieuwe funcitonaliteiten,...
 
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+> Vandaag heb ik geleerd om mijn wekelijkse werkbelasting beter te verdelen en een planning op te stellen voor mijn groep. Hierdoor kon ik bepalen wat haalbaar is binnen een bepaalde tijd en prioriteren welke taken als eerste moeten worden uitgevoerd. Dit heeft niet alleen mijn eigen productiviteit verhoogd, maar heeft ook bijgedragen aan een betere samenwerking binnen het team en een duidelijk overzicht van onze voortgang.
 
-
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> **Nieuwe skills:**
+>
+> - Ik heb geleerd om grote gehelen op een korte en duidelijke manier uit te leggen, zodat de essentie direct begrepen wordt. Hierdoor kan ik efficiënter communiceren en sneller tot de kern van een idee of probleem komen.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
-
-
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
+> **Algmeeen gevoel:**
+>
+> - **"Tevreden en energiek"**🌟 !
 
 ---
